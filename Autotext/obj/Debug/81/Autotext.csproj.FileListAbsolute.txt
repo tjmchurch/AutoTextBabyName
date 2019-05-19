@@ -1,0 +1,141 @@
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Autotext.dll
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Autotext.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Autotext.Autotext.apk
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Autotext.Autotext-Signed.apk
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.nuget.stamp
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\libraryimports.cache.stamp
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res.flag
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.csproj.CoreCompileInputs.cache
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.dll
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\bin\Autotext.Autotext.apk
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\layout\activity_main.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\layout\content_main.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\colors.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\dimens.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\ic_launcher_background.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\strings.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\styles.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\menu\menu_main.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\R.cs.flag
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\R.txt
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\uploadflags.txt
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Mono.Android.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\mscorlib.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.Core.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.Xml.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.Net.Http.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.Runtime.Serialization.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\System.ServiceModel.Internals.pdb
+F:\Program\Xamarin\Autotext\Autotext\bin\Debug\Mono.Security.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Autotext.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Mono.Android.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\mscorlib.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Core.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Xml.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Net.Http.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Mono.Security.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Autotext.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Mono.Android.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Mono.Security.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\mscorlib.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Core.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Net.Http.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Xml.pdb
+F:\Program\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.csprojAssemblyReference.cache
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.nuget.stamp
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\libraryimports.cache.stamp
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res.flag
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.dll
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Autotext.dll
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Autotext.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Autotext.Autotext.apk
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Autotext.Autotext-Signed.apk
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.csproj.CoreCompileInputs.cache
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\bin\Autotext.Autotext.apk
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\layout\activity_main.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\layout\content_main.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\colors.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\dimens.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\ic_launcher_background.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\strings.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\values\styles.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\menu\menu_main.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\res\drawable\bell.png
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\R.cs.flag
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\R.txt
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\uploadflags.txt
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Mono.Android.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\mscorlib.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.Core.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.Xml.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.Net.Http.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.Runtime.Serialization.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\System.ServiceModel.Internals.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\bin\Debug\Mono.Security.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Autotext.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Mono.Android.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\mscorlib.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Core.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Xml.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Net.Http.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\linksrc\Mono.Security.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Autotext.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Mono.Android.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\Mono.Security.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\mscorlib.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Core.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Net.Http.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\android\assets\System.Xml.pdb
+F:\Projects programs\Xamarin\Autotext\Autotext\obj\Debug\81\Autotext.csprojAssemblyReference.cache
